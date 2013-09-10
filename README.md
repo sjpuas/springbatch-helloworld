@@ -1,4 +1,8 @@
-springbatch-helloworld
+Spring Batch - Hello World 
 ======================
 
-Spring Batch Hello World Example
+Spring Batch Example, that read a cvs file and convert to xml.
+
+http://static.springsource.org/spring-batch/
+
+ 
